@@ -1,4 +1,4 @@
-name: Deployment Exercise 1
+name: Deployment Exercise 3
 on: [workflow_dispatch]
 jobs:
   build:
